@@ -15,8 +15,6 @@ The framework connects two scales of aging:
 1. **Cross-species to within-species.** It links cross-species lifespan measurements to aging within the human population.
 2. **Intrinsic vs. systemic.** It decomposes intrinsic factors (cell-autonomous effects) from systemic factors that more broadly influence cells across the entire tissue.
 
-[Aging+Longevity copy.pdf](https://github.com/user-attachments/files/30468723/Aging%2BLongevity.copy.pdf)
-
 ## Framework components
 
 The approach integrates these scales through seven components:
