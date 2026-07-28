@@ -12,8 +12,9 @@ This framework systematically integrates evolutionary, tissue-level, and cell-in
 
 The framework connects two scales of aging:
 
-1. **Cross-species to within-species.** It links cross-species lifespan measurements to aging within the human population.
-2. **Intrinsic vs. systemic.** It decomposes intrinsic factors (cell-autonomous effects) from systemic factors that more broadly influence cells across the entire tissue.
+1. **Cross-species.** Identify cell-type-specific open chromatin regions (OCRs) whose evolutionary divergence tracked divergence in species lifespan.
+2. **Within-species: Humans.** Transcriptional aging clock decomposes intrinsic aging (cell-autonomous effects) from systemic aging that more broadly influence cells across the entire tissue.
+3. **Cross-species to within-species.** It links cross-species lifespan divergence to aging within the human population.
 
    ![Figure 1: Overview of the multi-scale framework](figures/brain_aging_evolution_framework.png)
 
@@ -21,7 +22,7 @@ The framework connects two scales of aging:
 
 The approach integrates these scales through seven components:
 
-1. Resolving neuronal and non-neuronal cortical cell-type-specific longevity-associated regulatory elements (LARs) across 240 mammals.
+1. Resolving neuronal and non-neuronal cortical cell-type-specific longevity-associated regulatory elements (LARs) across 240 mammals using TACIT.
 2. Developing a transcriptional brain aging clock to decompose systemic aging from intrinsic aging in cortical neurons within the human population.
 3. Resolving cell-type-specific intrinsic aging.
 4. Linking intrinsic age to cellular vulnerability and aging hallmarks.
