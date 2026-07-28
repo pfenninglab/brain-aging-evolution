@@ -42,8 +42,8 @@ The approach integrates these scales through seven components:
 ## Model Training
 
 ```
-Aging Model training was performed in Python using:
-- scanpy and anndata for data handling
+Aging model training was performed in Python using:
+- scanpy and anndata for single-cell data handling
 - scikit-learn for ElasticNet regression
 - scipy and numpy for statistical analysis
 ```
