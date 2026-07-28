@@ -38,3 +38,12 @@ The approach integrates these scales through seven components:
 ├── analysis/          # analysis code, organized by framework component
 └── model/             # transcriptional brain aging clock (systemic and intrinsic aging clock)
 ```
+
+## Model Training
+
+```
+Aging Model training was performed in Python using:
+- scanpy and anndata for data handling
+- scikit-learn for ElasticNet regression
+- scipy and numpy for statistical analysis
+```
