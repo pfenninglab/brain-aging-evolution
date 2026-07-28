@@ -12,9 +12,9 @@ This framework systematically integrates evolutionary, tissue-level, and cell-in
 
 The framework connects two scales of aging:
 
-1. **Cross-species.** Identify cell-type-specific open chromatin regions (OCRs) whose evolutionary divergence tracked divergence in species lifespan.
+1. **Cross-species.** Identify cell-type-specific open chromatin regions (OCRs) whose evolutionary divergence track divergence in species lifespan.
 2. **Within-species: Humans.** Transcriptional aging clock decomposes intrinsic aging (cell-autonomous effects) from systemic aging that more broadly influence cells across the entire tissue.
-3. **Cross-species to within-species.** It links cross-species lifespan divergence to aging within the human population.
+3. **Cross-species to within-species.** Link cross-species lifespan divergence to aging within the human population.
 
    ![Figure 1: Overview of the multi-scale framework](figures/brain_aging_evolution_framework.png)
 
