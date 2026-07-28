@@ -1,4 +1,4 @@
-# An Epigenetic Signature of Vulnerable Neurons is Under Selective Pressure Associated with Longevity Across Placental Mammals.
+## An Epigenetic Signature of Vulnerable Neurons is Under Selective Pressure Associated with Longevity Across Placental Mammals.
 
 A multi-scale framework to investigate cell-type-specific aging programs and their contribution to cellular vulnerability in neurodegenerative disease.
 
