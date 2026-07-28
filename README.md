@@ -1,4 +1,4 @@
-# brain-aging-evolution
+# An Epigenetic Signature of Vulnerable Neurons is Under Selective Pressure Associated with Longevity Across Placental Mammals.
 
 A multi-scale framework to investigate cell-type-specific aging programs and their contribution to cellular vulnerability in neurodegenerative disease.
 
@@ -15,13 +15,14 @@ The framework connects two scales of aging:
 1. **Cross-species to within-species.** It links cross-species lifespan measurements to aging within the human population.
 2. **Intrinsic vs. systemic.** It decomposes intrinsic factors (cell-autonomous effects) from systemic factors that more broadly influence cells across the entire tissue.
 
+[Aging+Longevity copy.pdf](https://github.com/user-attachments/files/30468723/Aging%2BLongevity.copy.pdf)
 
 ## Framework components
 
 The approach integrates these scales through seven components:
 
 1. Resolving neuronal and non-neuronal cortical cell-type-specific longevity-associated regulatory elements (LARs) across 240 mammals.
-2. Developing a transcriptional brain aging clock to disentangle systemic aging from intrinsic aging in cortical neurons within the human population.
+2. Developing a transcriptional brain aging clock to decompose systemic aging from intrinsic aging in cortical neurons within the human population.
 3. Resolving cell-type-specific intrinsic aging.
 4. Linking intrinsic age to cellular vulnerability and aging hallmarks.
 5. Identifying differentially accessible regulatory elements in vulnerable cell types.
