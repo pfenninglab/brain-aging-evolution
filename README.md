@@ -45,7 +45,7 @@ All dependencies with exact versions are provided as conda environment files in 
 | `envs/singlecell_analysis.yml` | Single-cell processing, iENR aging clock, OLS/GSEA, AUCell scoring, epigenetic erosion, differential accessibility, vulnerability classifiers (R 4.2.3, Python 3.10.9) |
 | `envs/tacit_phylolm.yml` | TACIT phylogenetic regression of predicted OCR activity on longevity quotient (R 4.3.3) |
 | `envs/tacit_cnn_training.yml` | Cell-TACIT CNN training and cross-species prediction (TensorFlow 2.15.0, Keras 2.15.0, Python 3.10.13) |
-| `envs/hal_cnn_negatives_biasaway.yml` | GC-matched negative set generation for CNN training (BiasAway 3.3.0, Python 3.7.12) |
+| `envs/hal_cnn_training.yml` | ortholog mapping and training/negative set preparation for Cell-TACIT CNNs, including HAL liftover, BEDTools, and GC-matched negatives with BiasAway (Python 3.7.12, R 4.1.3) |
 | `envs/hal_vgp_liftover_synteny.yml` | HAL liftover to VGP genomes and enhancer–gene synteny analysis (Python 3.7.12) |
 
 R packages installed outside conda are recorded in `envs/R_sessionInfo_*.txt`.
@@ -159,4 +159,6 @@ Abdelhady G, et al. An Epigenetic Signature of Vulnerable Neurons is Under Selec
 
 ## Contact
 
+Ghada Abdelhady - gabdelha@andrew.cmu.edu
 Andreas R. Pfenning — apfenning@cmu.edu
+
